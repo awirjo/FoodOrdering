@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Food Ordering</string>
+    <string name="food_logo">Food logo</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+</resources>
